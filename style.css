@@ -1,1 +1,11 @@
-body {background-color:#efceff;}
+body {
+background-color:#efceff;
+--logo-color:#971cd1;
+}
+
+.navigation {
+	overflow:hidden;
+	background-color:#971cd1;
+	height:28px;
+	padding:0px 0px 16px 0px;
+}
