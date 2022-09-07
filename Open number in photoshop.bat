@@ -1,4 +1,5 @@
 @echo off
+cls
 
 set photoshop="C:\Program Files\PhotoshopPortable\App\PhotoshopCS4\Photoshop.exe"
 set root=\\HP24143288702\Dropbox\LTS
